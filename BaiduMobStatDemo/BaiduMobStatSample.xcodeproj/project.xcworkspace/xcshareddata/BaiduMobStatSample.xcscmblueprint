@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "373eecd1-dd0b-4895-8f73-540be3aaeb62++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "373eecd1-dd0b-4895-8f73-540be3aaeb62++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5919FB4B-7837-4957-AE35-96CC9EEEA28B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "373eecd1-dd0b-4895-8f73-540be3aaeb62++505" : "trunk_app-sdk-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BaiduMobStatSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "app-sdk-ios\/BaiduMobStatDemo\/BaiduMobStatSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.baidu.com\/app\/ecom\/holmes",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "373eecd1-dd0b-4895-8f73-540be3aaeb62++505"
+    }
+  ]
+}
